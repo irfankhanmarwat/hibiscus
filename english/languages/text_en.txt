@@ -1,0 +1,27 @@
+headertitle@@Hibiscus Beach Resort and Spa in Mauritius, Indian Ocean, Pereybere
+menu1@@Home
+menu2@@Accommodation
+menu21@@Suite Sea View
+menu22@@Loft
+menu23@@Superior Garden View
+menu24@@Royal Suite
+menu25@@Superior Sea View
+facilities@@Facilities
+Restaurant & Bar@@Restaurant & Bar
+Spa@@Spa
+Diving-centre@@Diving Centre
+Activities@@Activities
+menu27@@Water and Sport Activities
+menu28@@Fitness Centre
+mauritius@@Mauritius
+gallery@@Gallery
+contact1@@Hibiscus Boutique Hotel
+contact2@@Royal Road, Pereybere, Mauritius
+telephone@@Tel.
+english@@English
+french@@French
+german@@German
+rates@@RATES
+guestbook@@Guestbook
+contactus@@Contact Us
+presentation@@Presentation Video

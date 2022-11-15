@@ -1,0 +1,36 @@
+Options +FollowSymLinks
+RewriteEngine on
+#RewriteOptions inherit
+RewriteBase /
+
+# 301 redirections
+#RewriteRule ^facilities.htm$ http://%{HTTP_HOST}/english/facilities.htm [R=301,L]
+#RewriteRule ^contact-us.htm$ http://%{HTTP_HOST}/english/contact-us.htm [R=301,L]
+#RewriteRule ^diving-centre.htm$ http://%{HTTP_HOST}/english/diving-centre.htm [R=301,L]
+#RewriteRule ^gallery.htm$ http://%{HTTP_HOST}/english/gallery.htm [R=301,L]
+#RewriteRule ^google-map.htm$ http://%{HTTP_HOST}/english/google-map.htm [R=301,L]
+#RewriteRule ^guestbook.htm$ http://%{HTTP_HOST}/english/guestbook.htm [R=301,L]
+#RewriteRule ^gym.htm$ http://%{HTTP_HOST}/english/gym.htm [R=301,L]
+#RewriteRule ^info.htm$ http://%{HTTP_HOST}/english/info.htm [R=301,L]
+#RewriteRule ^junior-suite.htm$ http://%{HTTP_HOST}/english/junior-suite.htm [R=301,L]
+#RewriteRule ^mauritius.htm$ http://%{HTTP_HOST}/english/mauritius.htm [R=301,L]
+#RewriteRule ^rates.htm$ http://%{HTTP_HOST}/english/rates.htm [R=301,L]
+#RewriteRule ^restaurant.htm$ http://%{HTTP_HOST}/english/restaurant.htm [R=301,L]
+#RewriteRule ^restaurant-plage.htm$ http://%{HTTP_HOST}/english/restaurant-plage.htm [R=301,L]
+#RewriteRule ^senior-suite.htm$ http://%{HTTP_HOST}/english/senior-suite.htm [R=301,L]
+#RewriteRule ^spa.htm$ http://%{HTTP_HOST}/english/spa.htm [R=301,L]
+#RewriteRule ^accommodation.htm$ http://%{HTTP_HOST}/english/hotels/index.htm [R=301,L]
+#RewriteRule ^superior-room.htm$ http://%{HTTP_HOST}/english/hotels/superior-room.htm [R=301,L]
+#RewriteRule ^loft.htm$ http://%{HTTP_HOST}/english/hotels/loft.htm [R=301,L]
+#RewriteRule ^suite.htm$ http://%{HTTP_HOST}/english/hotels/suite.htm [R=301,L]
+#RewriteRule ^royal-suite.htm$ http://%{HTTP_HOST}/english/hotels/royal-suite.htm [R=301,L]
+#RewriteRule ^activities.htm$ http://%{HTTP_HOST}/english/activities.htm [R=301,L]
+#RewriteRule ^fitness-center.htm$ http://%{HTTP_HOST}/english/fitness-center.htm [R=301,L]
+#RewriteRule ^watersports-activities.htm$ http://%{HTTP_HOST}/english/watersports-activities.htm [R=301,L]
+
+# last rule
+#RewriteRule ^(.*)\.htm$ $1.php [nc]
+RewriteRule ^index.htm$ index.php [nc,L]
+RewriteRule ^english/(.*)\.htm$ english/$1.php [nc,L]
+RewriteRule ^french/(.*)\.htm$ french/$1.php [nc,L]
+RewriteRule ^german/(.*)\.htm$ german/$1.php [nc,L]

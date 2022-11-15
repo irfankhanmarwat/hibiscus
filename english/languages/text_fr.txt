@@ -1,0 +1,26 @@
+headertitle@@Hibiscus Beach Resort and Spa &agrave; l'&icirc;le Maurice, Oc&eacute;an Indien, Pereyb&egrave;re
+menu1@@Accueil
+menu2@@H&eacute;bergement
+menu21@@Suite
+menu22@@Loft
+menu23@@Chambre Sup&eacute;rieure
+menu24@@Suite Royale
+facilities@@&Eacute;quipements
+Restaurant & Bar@@Restaurant & Bar
+Spa@@Spa
+Diving-centre@@Centre de Plong&eacute;e
+Activities@@Activit&eacute;s
+menu27@@Activit&eacute;s Aquatiques et Sportives
+menu28@@Centre de Fitness
+mauritius@@&Icirc;le Maurice
+gallery@@Galerie
+contact1@@Hibiscus Boutique Hotel
+contact2@@Royal Road, Pereyb&egrave;re, &Icirc;le Maurice
+telephone@@T&eacute;l.
+english@@English
+french@@French
+german@@German
+rates@@TARIFS
+guestbook@@LIVRE D'OR
+contactus@@NOUS CONTACTER
+presentation@@PR&Eacute;SENTATION VID&Eacute;O
